@@ -5,6 +5,6 @@
 * ### Part2 : 서울시 따릉이 수요 분석
 <br />
 
-## <a href = "https://github.com/18-12847/Mini-Project/tree/main/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B82(%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)">미니프로젝트 2(AI 모델링) </a>
+## <a href = "https://github.com/18-12847/Mini-Project/tree/main/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B82(AI%20%EB%AA%A8%EB%8D%B8%EB%A7%81)">미니프로젝트 2(AI 모델링) </a>
 * ### Part1 : 미세먼지 농도 예측
 * ### Part2 : 악성사이트 탐지 모델링
