@@ -8,3 +8,8 @@
 ## <a href = "https://github.com/18-12847/Mini-Project/tree/main/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B82(AI%20%EB%AA%A8%EB%8D%B8%EB%A7%81)">미니프로젝트 2(AI 모델링) </a>
 * ### Part1 : 미세먼지 농도 예측
 * ### Part2 : 악성사이트 탐지 모델링
+<br />
+
+## <a href = "https://github.com/18-12847/Mini-Project/tree/main/%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B83(%EC%8B%9C%EA%B0%81%EC%A7%80%EB%8A%A5)">미니프로젝트 3(시각지능) </a>
+* ### Part1 : 차량공유업체의 차량 파손여부 분류
+* ### Part2 : 저시력자들을 위한 원화 화폐 분류
